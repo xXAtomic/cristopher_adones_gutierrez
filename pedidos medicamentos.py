@@ -74,6 +74,7 @@ arbol_historial.insertar(2, "2023-02-20", "Examen de sangre")
 arbol_historial.insertar(1, "2023-03-10", "Vacuna contra la gripe")
 arbol_historial.insertar(2, "2023-04-05", "Radiografía de tórax")
 arbol_historial.insertar(1, "2023-05-22", "Control de alergias")
+arbol_historial.insertar(3, "2023-06-18", "Chequeo anual") #esto fue agregado por mi recientemente
 
 # Buscar un registro específico
 registro = arbol_historial.buscar(1, "2023-03-10")
